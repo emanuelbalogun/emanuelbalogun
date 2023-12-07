@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @emanuelbalogun
-- 👀 I’m interested in Software Architecture
+- 👀 I’m interested in FullStack Web Development
 - 🌱 I’m currently learning AWS
 - 📫 I can be reached via emanuelbalogun@gmail.com 
 
